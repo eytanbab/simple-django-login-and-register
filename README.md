@@ -40,3 +40,7 @@ Functionality:
 -Check stores rating  
 
 -Read terms and conditions  
+
+
+# How to run:
+git clone 
