@@ -11,10 +11,10 @@ known bugs to be fixed:
 Functionality:  
 - Log in  
 
- - via username & password  
- - via email & password  
- - via email or username & password  
- - Create an account  
+  - via username & password  
+  - via email & password  
+  - via email or username & password  
+  - Create an account  
 
 - Log out  
 
